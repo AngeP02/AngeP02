@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Angelica 👋
 
-<!--
-**AngeP02/AngeP02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at the University of Calabria,
+currently pursuing a Master's degree in Big Data & High Performance Computing.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- B.Sc. in Computer Engineering — University of Calabria
+- M.Sc. in Computer Engineering, Big Data & HPC — University of Calabria *(in progress)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+**Languages:** Python, Java, C/C++, JavaScript, SQL  
+**Tools & Frameworks:** Spark, MPI, OpenMP, CUDA, Docker, Git  
+**Areas of interest:** Big Data, HPC, AI & NLP, Cloud Computing
