@@ -1,7 +1,7 @@
 # Hi, I'm Angelica 👋
 
 I'm a Computer Engineering student at the University of Calabria,
-currently pursuing a Master's degree in Big Data & High Performance Computing.
+currently doing a Master's degree in Computer Engineering (specializing in Big Data and High Performance Computing).
 
 ## 🎓 Education
 - B.Sc. in Computer Engineering — University of Calabria
