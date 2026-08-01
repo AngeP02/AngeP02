@@ -7,7 +7,7 @@ currently doing a Master's degree in Computer Engineering (specializing in Big D
 - B.Sc. in Computer Engineering — University of Calabria
 - M.Sc. in Computer Engineering, Big Data & HPC — University of Calabria *(in progress)*
 
-## 💻 Skills
+## 🛠️ Skills
 **Languages:** Python, Java, C/C++, JavaScript, SQL  
 **Tools & Frameworks:** Spark, MPI, OpenMP, CUDA, Docker, Git  
 **Areas of interest:** Big Data, HPC, AI & NLP, Cloud Computing
