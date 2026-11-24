@@ -2,6 +2,8 @@
 
 I'm a Computer Engineering student at the University of Calabria, currently doing a Master's degree in Computer Engineering, specializing in Big Data and High Performance Computing.
 
+My main interests are High Performance Computing, Big Data Engineering, and Generative AI. I enjoy building end-to-end systems, from algorithm design and optimization to data processing and interactive applications.
+
 #### Education
 
 | | |
